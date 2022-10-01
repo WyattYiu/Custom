@@ -1,0 +1,5 @@
+my-threadpool:
+  core-pool-size: 100
+  max-pool-size: 400
+  keep-alive-seconds: 10
+  queue-capacity: 300
